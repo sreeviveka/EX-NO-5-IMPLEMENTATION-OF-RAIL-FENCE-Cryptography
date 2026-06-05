@@ -1,5 +1,6 @@
 # EX-NO-5-IMPLEMENTATION-OF-RAIL-FENCE
-
+## NAME: V.S.SREE VIVEKA
+## REG NO; 2305001031
 ## AIM:
 To write a C program to implement the rail fence transposition technique.
 
@@ -65,7 +66,7 @@ int main()
 }
 ```
 ## OUTPUT
-
+<img width="398" height="303" alt="image" src="https://github.com/user-attachments/assets/91066d2c-9408-40d2-8f44-c0d70690dad3" />
 
 ## RESULT
 Hence the experiment has been executed successfully
